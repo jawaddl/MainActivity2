@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+//
         final EditText editTextA = findViewById(R.id.editTextA);
         final EditText editTextB = findViewById(R.id.editTextB);
         final EditText editTextC = findViewById(R.id.editTextC);
